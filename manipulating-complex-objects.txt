@@ -1,0 +1,24 @@
+const myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  },
+  {
+    "artist": "Sabrina Sabs",
+    "title": "You are my everything",
+    "release_year": 2023,
+    "formats": [
+      "DVD",
+      "Blu-ray"
+    ]
+
+  }
+
+];
